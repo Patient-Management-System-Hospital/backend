@@ -25,7 +25,7 @@ Installation-instructions:- For BackEnd use only = use api that i created in to 
                             for add user=( patient/doctor ) in role based 1 for doctor, 0 for patenst.
 
 Api Documentation:- api to use in postman
-                    for regeiter new users = http://127.0.0.1:8001/api/register
-                    for login new users    = http://127.0.0.1:8001/api/login
-                    for viewing profile    = http://127.0.0.1:8001/api/profile
-                    for updating prof data = http://127.0.0.1:8001/api/updateProfile
+                    for regeiter new users = http://127.0.0.1:5003/api/register
+                    for login new users    = http://127.0.0.1:5003/api/login
+                    for viewing profile    = http://127.0.0.1:5003/api/profile
+                    for updating prof data = http://127.0.0.1:5003/api/updateProfile
